@@ -1,0 +1,10 @@
+/var/log/httpd/access_log {
+size 10k
+rotate 100
+compress
+missingok
+notifempty
+copytruncate
+maxage 1
+dateext
+}
