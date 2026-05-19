@@ -1,4 +1,4 @@
-Important command
+Important commands
 -----
 Check  file size
 --
